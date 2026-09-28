@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_copy_mem16x16_c :: (src: *u8, src_stride: s32, dst: *u8, dst_stride: s32) {
     for r: 0..cast(s32) 16 - 1 {
         copy_memory(dst, src, 16);

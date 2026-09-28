@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Lookahead_Ctx_in_lookahead :: struct {
     max_sz: u32;
     sz: u32;

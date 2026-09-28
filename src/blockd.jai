@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 VP8_BLOCK2LEFT: [25] u8;
 
 VP8_BLOCK2ABOVE: [25] u8;

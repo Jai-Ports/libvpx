@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 VP8_MODE_CONTEXTS: [6] [4] s32;
 
 globals_initialization_state_for_modecont: u32;

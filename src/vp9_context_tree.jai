@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 COUNT_TO_UPDATE_FACTOR_in_vp9_context_tree: [21] s32;
 
 SQUARE_storage: [4] BLOCK_SIZE;

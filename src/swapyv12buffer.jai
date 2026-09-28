@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_swap_yv12_buffer :: (new_frame: *YV12_BUFFER_CONFIG, last_frame: *YV12_BUFFER_CONFIG) {
     temp := last_frame.buffer_alloc;
     last_frame.buffer_alloc = new_frame.buffer_alloc;

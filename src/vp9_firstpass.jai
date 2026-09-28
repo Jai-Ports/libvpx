@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 RANGE :: struct {
     min: s32;
     max: s32;

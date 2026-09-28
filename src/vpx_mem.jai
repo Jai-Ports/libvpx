@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 memalign :: (align: u64, size: u64) -> *void {
     x: *void = null;
     ALIGNED_SIZE := get_aligned_malloc_size(size, align);

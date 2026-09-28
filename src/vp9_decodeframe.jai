@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Predict_Recon_Func :: #type (_: *Tile_Worker_Data, _: *MODE_INFO, _: s32, _: s32, _: s32, _: TX_SIZE) -> s32;
 
 Intra_Recon_Func :: #type (_: *Tile_Worker_Data, _: *MODE_INFO, _: s32, _: s32, _: s32, _: TX_SIZE);

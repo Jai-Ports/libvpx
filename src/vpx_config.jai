@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 CFG: *s8;
 
 codec_build_config :: () -> *s8 {

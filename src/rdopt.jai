@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 BEST_MODE :: Best_Mode_Struct;
 
 Best_Mode_Struct :: struct {

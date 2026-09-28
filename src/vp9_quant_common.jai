@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 COUNT_TO_UPDATE_FACTOR_in_vp9_quant_common: [21] s32;
 
 DC_QLOOKUP_storage: [256] s16;

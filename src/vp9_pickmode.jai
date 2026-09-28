@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Estimate_Block_Intra_Args :: struct {
     cpi: *VP9_COMP_in_vp9_encoder;
     x: *MACROBLOCK;

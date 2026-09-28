@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 VP8_MV_UPDATE_PROBS: [2] MV_CONTEXT;
 
 VP8_DEFAULT_MV_CONTEXT: [2] MV_CONTEXT;

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_dequant_idct_add_c :: (input: *s16, dq: *s16, dest: *u8, stride: s32) {
     for i: 0..cast(s32) 16 - 1 {
         input[i] = cast,no_check(s16) ((cast(s32) dq[i]) * cast(s32) input[i]);

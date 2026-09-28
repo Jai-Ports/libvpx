@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 clip_pixel_in_sse :: (val: s32) -> u8 {
     return cast,no_check(u8) ((ifx val > 255 then 255 else (ifx val < 0 then 0 else val)));
 }

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Vp8_Find_Near_Mvs_Values :: u32;
 CNT_INTRA : s32 : 0;
 CNT_NEAREST : s32 : 1;

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 COUNT_TO_UPDATE_FACTOR_in_bitreader: [21] s32;
 
 codec_control_vp8_set_reference :: (ctx: *Codec_Ctx_T, ctrl_id: s32, data: *Ref_Frame_T) -> Codec_Err_T {

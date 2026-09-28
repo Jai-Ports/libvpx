@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 #load "cpp_transpiler_runtime.jai";
 
 codec_dec_init_ver :: (

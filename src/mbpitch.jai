@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_build_block_doffsets :: (x: *MACROBLOCKD_in_blockd) {
     for block: 0..cast(s32) 16 - 1 {
         x.block[block].offset = block >> 2 * 4 * x.dst.y_stride + block & 3 * 4;

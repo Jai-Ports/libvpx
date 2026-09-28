@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Optimize_Ctx :: struct {
     ta: [3] [16] ENTROPY_CONTEXT;
     tl: [3] [16] ENTROPY_CONTEXT;

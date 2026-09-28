@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Interp_Kernel_in_vp9_resize :: [8] s16;
 
 FILTEREDINTERP_FILTERS500: [32] Interp_Kernel_in_vp9_resize;

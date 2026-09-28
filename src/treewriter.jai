@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 validate_buffer_in_treewriter :: (start: *u8, len: u64, end: *u8, error: *Internal_Error_Info) -> s32 {
     if start + len > start && start + len < end {
         return 1;

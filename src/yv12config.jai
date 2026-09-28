@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_yv12_alloc_frame_buffer :: (ybf: *YV12_BUFFER_CONFIG, width: s32, height: s32, border: s32) -> s32 {
     if ybf != null {
         vp8_yv12_de_alloc_frame_buffer(ybf);

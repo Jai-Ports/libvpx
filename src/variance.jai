@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 BILINEAR_FILTERS: [8] [2] u8;
 
 clip_pixel_in_variance :: (val: s32) -> u8 {

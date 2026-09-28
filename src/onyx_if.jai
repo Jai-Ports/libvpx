@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 MODE_CHECK_FREQ_MAP_SPLIT2: [12] s32;
 
 MODE_CHECK_FREQ_MAP_SPLIT1: [10] s32;

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 SUB_PEL_FILTERS_12_in_vp9_tpl_model: [16] Interp_Kernel12 #align 256;
 
 COUNT_TO_UPDATE_FACTOR_in_vp9_tpl_model: [21] s32;

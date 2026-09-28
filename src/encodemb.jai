@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Vp8_Token_State :: struct {
     rate: s32;
     error: s32;

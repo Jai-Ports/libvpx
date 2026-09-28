@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 COUNT_TO_UPDATE_FACTOR_in_vp9_scan: [21] s32;
 
 VP9_DEFAULT_SCAN_ORDERS: [4] Scan_Order_in_vp9_scan;

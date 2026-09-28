@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_horizontal_line_2_1_scale_c :: (source: *u8, source_width: u32, dest: *u8, dest_width: u32) {
     des := dest;
     src := source;

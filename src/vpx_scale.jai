@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Scale1_D :: #type (_: *u8, _: s32, _: u32, _: u32, _: *u8, _: s32, _: u32, _: u32);
 
 SCALE_VARS :: struct {

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 CODEC_VP9_DX_ALGO: Codec_Iface_T;
 
 DECODER_CTRL_MAPS: [18] Codec_Ctrl_Fn_Map_T;

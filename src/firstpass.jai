@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 WEIGHT_TABLE: [256] float64;
 
 CQ_LEVEL: [128] s32;

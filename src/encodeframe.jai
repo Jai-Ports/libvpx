@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 VP8_VAR_OFFS: [16] u8;
 
 eob_adjust :: (eobs: *s8, diff: *s16) {

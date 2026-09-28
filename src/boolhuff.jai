@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 VP8_PROB_COST: [256] u32;
 
 vp8_start_encode :: (bc: *Vp8_Writer, source: *u8, source_end: *u8) {

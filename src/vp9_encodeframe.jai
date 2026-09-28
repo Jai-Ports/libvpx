@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 V16x16 :: struct {
     part_variances: Partition_Variance;
     split: [4] V8x8;

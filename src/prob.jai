@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 COUNT_TO_UPDATE_FACTOR: [21] s32;
 
 NORM: [256] u8 #align 16;

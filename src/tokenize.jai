@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 VP8_DCT_VALUE_COST_PTR: *s16;
 
 DCT_VALUE_COST: [4096] s16;

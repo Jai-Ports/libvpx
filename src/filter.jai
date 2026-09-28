@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 VP8_BILINEAR_FILTERS: [8] [2] s16 #align 16;
 
 VP8_SUB_PEL_FILTERS: [8] [6] s16 #align 16;

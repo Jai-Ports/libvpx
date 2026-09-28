@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Proba_Array :: *[3] [11] u8;
 
 K_ZIGZAG: [16] u8;

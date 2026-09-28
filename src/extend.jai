@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_extend_mb_row :: (ybf: *YV12_BUFFER_CONFIG, y_ptr: *u8, u_ptr: *u8, v_ptr: *u8) {
     y_ptr += ybf.y_stride * 14;
     u_ptr += ybf.uv_stride * 6;

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 lock_in_rtcd: Pthread_Once_T;
 
 vp8_rtcd :: () {

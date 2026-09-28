@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_short_fdct4x4_c :: (input: *s16, output: *s16, pitch: s32) {
     a1, b1, c1, d1: s32 = ---;
     ip := input;

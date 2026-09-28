@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 COUNT_TO_UPDATE_FACTOR_in_vp9_treewriter: [21] s32;
 
 clip_pixel_in_vp9_treewriter :: (val: s32) -> u8 {

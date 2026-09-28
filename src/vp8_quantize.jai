@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 QROUNDING_FACTORS_storage: [129] s32;
 
 QZBIN_FACTORS_storage: [129] s32;

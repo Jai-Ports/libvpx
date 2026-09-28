@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_set_reference_value_in_ethreading :: (args: *Va_List_Tag) -> *Ref_Frame_T {
     return c_transpiler_va_arg(cast(*void) (args), *Ref_Frame_T);
 }

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Partition_Context_Lookup_Entry_in_vp9_common_data :: struct {
     above: PARTITION_CONTEXT;
     left: PARTITION_CONTEXT;

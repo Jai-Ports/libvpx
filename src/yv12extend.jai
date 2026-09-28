@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_yv12_copy_frame_c :: (src_ybc: *YV12_BUFFER_CONFIG, dst_ybc: *YV12_BUFFER_CONFIG) {
     src := src_ybc.y_buffer;
     dst := dst_ybc.y_buffer;

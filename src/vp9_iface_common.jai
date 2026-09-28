@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 codec_control_vp8_set_reference_in_vp9_iface_common :: (
     ctx: *Codec_Ctx_T,
     ctrl_id: s32,

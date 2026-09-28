@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 codec_version :: () -> s32 {
     return (cast(s32) 1) << 16 | ((cast(s32) 17) << 8) | 0;
 }

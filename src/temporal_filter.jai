@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_temporal_filter_apply_c :: (
     frame1: *u8,
     stride: u32,

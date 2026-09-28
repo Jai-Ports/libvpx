@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 AC_QLOOKUP: [128] s32;
 
 DC_QLOOKUP: [128] s32;

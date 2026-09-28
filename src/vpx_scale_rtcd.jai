@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 lock: Pthread_Once_T;
 
 scale_rtcd :: () {

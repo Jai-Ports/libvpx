@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Codec_Alg_Priv_in_vp9_cx_iface :: struct {
     base: Codec_Priv_T #align 8;
     cfg: Codec_Enc_Cfg_T #align 1;

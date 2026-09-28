@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 COUNT_TO_UPDATE_FACTOR_in_vp9_dsubexp: [21] s32;
 
 inv_map_table: [255] u8;

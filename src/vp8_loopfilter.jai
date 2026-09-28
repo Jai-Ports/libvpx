@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_loop_filter_init :: (cm: *VP8_COMMON) {
     lfi := *cm.lf_info;
 

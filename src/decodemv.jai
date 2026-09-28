@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Read_Mb_Modes_Mv_Values :: u32;
 CNT_INTRA_in_decodemv : s32 : 0;
 CNT_NEAREST_in_decodemv : s32 : 1;

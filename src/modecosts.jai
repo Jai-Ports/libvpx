@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_init_mode_costs :: (c: *VP8_COMP) {
     x := *c.common;
     rd_costs: *Rd_Costs_Struct = *c.rd_costs;

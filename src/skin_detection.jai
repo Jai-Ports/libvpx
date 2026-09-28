@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 SKIN_THRESHOLD: [6] s32;
 
 SKIN_MEAN: [5] [2] s32;

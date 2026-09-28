@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 wb_init :: (wb: *Write_Bit_Buffer, bit_buffer: *u8, size: u64) {
     wb.error = 0;
     wb.bit_offset = 0;

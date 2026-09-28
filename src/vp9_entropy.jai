@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 COUNT_TO_UPDATE_FACTOR_in_vp9_entropy: [21] s32;
 
 VP9_PT_ENERGY_CLASS: [12] u8 #align 16;

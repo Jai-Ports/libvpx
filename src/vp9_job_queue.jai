@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp9_jobq_init :: (jobq: *Job_Queue_Row_Mt, buf: *u8, buf_size: u64) {
     pthread_mutex_init(*jobq.mutex, null);
     pthread_cond_init(*jobq.cond, null);

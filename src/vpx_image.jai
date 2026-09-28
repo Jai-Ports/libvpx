@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 img_alloc :: (img: *Image_T, fmt: Img_Fmt_T, d_w: u32, d_h: u32, align: u32) -> *Image_T {
     return img_alloc_helper(img, fmt, d_w, d_h, align, align, null);
 }

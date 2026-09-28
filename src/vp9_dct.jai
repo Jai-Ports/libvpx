@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 SUB_PEL_FILTERS_12_in_vp9_dct: [16] Interp_Kernel12 #align 256;
 
 FHT_16: [4] Transform_2d;

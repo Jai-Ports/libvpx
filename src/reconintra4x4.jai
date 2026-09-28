@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Intra_Pred_Fn_in_reconintra4x4 :: #type (_: *u8, _: s64, _: *u8, _: *u8);
 
 pred_storage: [10] Intra_Pred_Fn_in_reconintra4x4;

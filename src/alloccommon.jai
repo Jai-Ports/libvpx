@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_create_common :: (oci: *VP8_COMMON) {
     vp8_machine_specific_config(oci);
 

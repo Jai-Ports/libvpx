@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 ALT_REF_AQ_in_vp9_alt_ref_aq :: struct {
     dummy: s32;
 }

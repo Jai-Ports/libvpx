@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 COUNT_TO_UPDATE_FACTOR_in_vp9_aq_cyclicrefresh: [21] s32;
 
 VP9_VAR_OFFS_storage: [64] u8;

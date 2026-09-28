@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 COSPI_16_64_storage: Tran_Coef_T;
 
 COSPI_24_64_storage: Tran_Coef_T;

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 SSE_THRESHOLD_HIGH: u32;
 
 SSE_THRESHOLD: u32;

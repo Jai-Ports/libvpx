@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Is_Skippable_Args :: struct {
     eobs: *u16;
     skippable: *s32;

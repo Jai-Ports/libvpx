@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 NEXT_CHKPTS: [6] [3] MV_in_alloccommon;
 
 vp8_diamond_search_sad_c :: (

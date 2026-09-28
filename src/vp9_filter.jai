@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp9_filter_kernels: [5] *Interp_Kernel;
 
 SUB_PEL_FILTERS_4: [16] Interp_Kernel #align 256;

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 lock_storage: Pthread_Once_T;
 
 clip_pixel_in_vpx_dsp_rtcd :: (val: s32) -> u8 {

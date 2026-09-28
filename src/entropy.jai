@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 VP8_COEF_TREE: [22] Vp8_Tree_Index;
 
 VP8_COEF_ENCODINGS: [12] Vp8_Token;

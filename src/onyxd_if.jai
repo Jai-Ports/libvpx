@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 init_done: s32;
 
 lock_in_onyxd_if: Pthread_Once_T;

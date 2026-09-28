@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Intra_Pred_Fn_in_vp9_reconintra :: #type (_: *u8, _: s64, _: *u8, _: *u8);
 
 NEED_Values :: u32;

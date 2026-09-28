@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 AQ_C_VAR_THRESHOLDS: [3] [5] float64;
 
 AQ_C_TRANSITIONS: [3] [5] float64;

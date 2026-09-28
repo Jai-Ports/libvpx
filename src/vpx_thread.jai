@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Worker_Impl :: struct {
     mutex: Pthread_Mutex_T #align 8;
     condition: Pthread_Cond_T #align 1;

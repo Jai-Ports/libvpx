@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 codec_enc_init_ver :: (
     ctx: *Codec_Ctx_T,
     iface: *Codec_Iface_T,

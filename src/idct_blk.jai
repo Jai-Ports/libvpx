@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_dequant_idct_add_uv_block_c :: (q: *s16, dq: *s16, dst_u: *u8, dst_v: *u8, stride: s32, eobs: *s8) {
     j: s32 = ---;
 

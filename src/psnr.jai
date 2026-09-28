@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 PEAK: float64;
 
 clip_pixel_in_psnr :: (val: s32) -> u8 {

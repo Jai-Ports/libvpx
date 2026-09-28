@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 VP8_MBSPLITS: [4] Vp8_Mbsplit;
 
 VP8_MBSPLIT_COUNT: [4] s32;

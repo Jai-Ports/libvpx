@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_machine_specific_config :: (ctx: *VP8_COMMON) {
     ctx.processor_core_count = get_cpu_count();
 }

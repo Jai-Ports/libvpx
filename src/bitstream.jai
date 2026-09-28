@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 DEFAULT_COEF_COUNTS: [4] [8] [3] [12] u32;
 
 VP8CX_BASE_SKIP_FALSE_PROB: [128] s32;

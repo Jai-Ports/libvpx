@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_tokens_from_tree :: (p: *Vp8_Token_Struct, t: *Vp8_Tree_Index) {
     tree2tok(p, t, 0, 0, 0);
 }

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 VP8_BITS_PER_MB: [2] [128] s32;
 
 PRIOR_KEY_FRAME_WEIGHT: [5] u32;

@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 rb_bytes_read :: (rb: *Read_Bit_Buffer) -> u64 {
     return (rb.bit_offset + 7) >> 3;
 }

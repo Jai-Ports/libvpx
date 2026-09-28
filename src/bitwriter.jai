@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 COUNT_TO_UPDATE_FACTOR_storage: [21] s32;
 
 clip_pixel_in_bitwriter :: (val: s32) -> u8 {

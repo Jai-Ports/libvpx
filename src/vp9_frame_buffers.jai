@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp9_alloc_internal_frame_buffers :: (list: *Internal_Frame_Buffer_List) -> s32 {
     NUM_BUFFERS: s32 = cast,no_check(s32) ((8 + 8));
 

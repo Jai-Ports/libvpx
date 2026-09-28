@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 vp8_setup_intra_recon :: (ybf: *YV12_BUFFER_CONFIG) {
     fill_memory(ybf.y_buffer - 1 - ybf.y_stride, 127, cast,no_check(u64) (ybf.y_width + 5));
     i: s32 = 0;

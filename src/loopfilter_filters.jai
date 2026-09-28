@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 Uc :: u8;
 
 vp8_loop_filter_bh_c :: (y_ptr: *u8, u_ptr: *u8, v_ptr: *u8, y_stride: s32, uv_stride: s32, lfi: *Loop_Filter_Info) {

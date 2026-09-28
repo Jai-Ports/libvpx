@@ -1,4 +1,3 @@
-// Generated directly from C by cpp_transpiler.
 SINPI8SQRT2: s32;
 
 COSPI8SQRT2MINUS1: s32;
