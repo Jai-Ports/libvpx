@@ -1,0 +1,65 @@
+{
+  "schema_version": 3,
+  "name": "libvpx",
+  "upstream": {
+    "url": "https://chromium.googlesource.com/webm/libvpx",
+    "commit": "5e680f30801d03c21078f8c4b772464752516211"
+  },
+  "generator": {
+    "repository": "https://github.com/Jai-Ports/generator.git",
+    "commit": "ab02dd192308f04359d639f950bc51503617ff39"
+  },
+  "language": "c",
+  "standard": "upstream configure/Make",
+  "supported_target": "linux-x64",
+  "include_directories": [
+  ],
+  "compiler_flags": [
+    "-fwrapv",
+    "-ffp-contract=off"
+  ],
+  "cmake": {"enabled": false, "source_directory": "", "cache_variables": [
+    ], "source_cache_variables": [], "build_targets": [
+    ]},
+  "make": {"enabled": true, "configure_script": "configure", "configure_arguments": [
+      "--target=generic-gnu"
+    ], "variables": [
+      "CC=clang",
+      "CXX=clang++",
+      "V=1",
+      "target=libs"
+    ], "generated_targets": [
+      "vp8_rtcd.h",
+      "vp9_rtcd.h",
+      "vpx_dsp_rtcd.h",
+      "vpx_scale_rtcd.h"
+    ]},
+  "prepared_files": [
+  ],
+  "dependencies": [
+  ],
+  "submodules": [
+  ],
+  "modules": [
+    {
+      "path": "",
+      "transpiler_prefix": "vpx",
+      "sources": [
+      ],
+      "generator_sources": [],
+      "source_groups": [],
+      "cmake_targets": [
+      ],
+      "make_targets": [
+        "libvpx_g.a"
+      ],
+      "defines": [
+      ],
+      "compiler_flags": [
+      ],
+      "system_libraries": [
+      ],
+      "entry": "cpp_transpiler_program.jai"
+    }
+  ]
+}
